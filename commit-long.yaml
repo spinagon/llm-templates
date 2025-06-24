@@ -1,2 +1,2 @@
 system_fragments:
-- /home/ubuntu/prompts/commit-long
+- https://raw.githubusercontent.com/spinagon/llm-templates/refs/heads/main/system_prompts/commit-long
